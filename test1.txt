@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 7223-B623
+
+ Directory of C:\Users\z00360103\Desktop\LearningSELENIUM\GitMyProject
+
+02/16/2019  03:38 PM    <DIR>          .
+02/16/2019  03:38 PM    <DIR>          ..
+02/16/2019  03:38 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  70,731,390,976 bytes free
